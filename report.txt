@@ -1,0 +1,43 @@
+Initial Selected Crop Listing :
+	
+	Farmers usually select crop for cultivation according to their traditional knowledge and 		
+	past experience in farming, but a farmer’s predictions may go wrong due to natural 		
+	disaster. Thus, decision-making tool need to be developed to help farmers to take decision 		
+	on crop cultivation.  
+
+Decision-making tool for crop selection :
+	decision-making tool was developed for selecting the suitable crop that can be cultivated 		
+	in a given agricultural land. Different crops need different type of soils, different 		
+	types and amounts of nutrients, and different types and amounts of water. The amount of 	
+	water required by the plant is also dependent on the growing season and the climate where 		
+	it is grown. By selecting the right crop for the given soil conditions and climate, one 	
+	can optimise yields and save water requirements for irrigation. 
+
+	        Thus initial list of predicted crops is done on the basis of:
+
+		1) Local adaptability (amounts of nutrients) :
+			Different varieties of the same species can have different nutrient requirements. Select varieties that are suited to your 				soil’s fertility levels such as N,P,K values of the soil of that particular Location.
+			Proper nutrition is essential for satisfactory crop growth and production. The use of soil tests can help to determine the 				status of plant-available nutrients to develop fertiliser recommendations in order to achieve optimum crop production.
+			
+		2) Environmental factors :
+			Daylight hours are another concern. Onions, for example, are influenced by day length and must be selected so that the plant’s 				needs match the actual growing conditions.
+			Crops that need significant light and warm temperatures for growth and optimal flavor, such as melons, require special 				attention. Where the growing season is short, choosing a melon variety that matures a week or so earlier than other varieties 				can make a difference in the crop’s success. Choosing crops with planting and sowing needs that make sense for your farm is 				important.
+ 
+		3) The Climate :
+			In a sunny and hot climate, crops need more water per day than in a cloudy and cool climate. One has to consider the amount of 				rainfall and water loss trough percolation and evapotranspiration in order to calculate the right amount of irrigation water 				needed. Soil moisture conservation through mulching, tillage techniques, soil cover or soil amendment.
+
+		4) Marketability and profitability :
+			For those who want to engage in cash crop farming or, at the least, ensure financial sustainability, crop selection must 				consider marketability and profitability. In general, this means that the crop to be selected must be high yielding. The 				product, be it the fruit, seed, modified root or stem, flower or foliage or any part, must have an accessible, stable and 				robust market.
+
+		5) Prevailing farm conditions :
+			An environmental scanning should first be conducted. This involves a thorough ocular inspection and other methods to obtain 				information on the biotic factor that can affect plant growth and yield, soil and climatic conditions prevailing in the area, 				and accessibility. Here the guiding rule is: know your farm first then select the right crop.
+			The biotic factor refers to living organisms including ruminant animals, insect and other pests, disease pathogens and weeds, 				as well as organisms having beneficial effects like civet cat population for the production of civet coffee and the abundance 				of pollinators.
+
+		6) Resistance to pests and diseases
+			Regardless of the purpose of farming, it is important to be able to select a crop and variety with wide resistance to 				important pests and diseases. The use of susceptible varieties may result to high cost of production or, worst, total crop 				failure.
+
+		7) Farming system.
+			 Crop selection is affected by the system of farming employed, that is, whether purely crop farming or integrated with 				 livestock animals. Likewise, the particular crop species to be grown will depend on the crop production practices such as 				 monoculture, multiple cropping, hedge row-strip cropping, and planting patterns.
+
+		8) Security
+			 In the absence of security personnel or where there is no fence that will exclude intruders, crop selection may be done in 				 favor of those which are not susceptible of thievery. This will avoid such crops as vegetables and fruit crops which can be 			         easily harvested for food and for cash.

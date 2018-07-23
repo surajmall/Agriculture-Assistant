@@ -1,0 +1,28 @@
+Input -- >> Location,Date(Season),Area
+Crops predictor on the basis of 
+	1.N,P,K values
+	2.MSP
+	3.Expected Yield
+	4.Location
+	5.Season
+	6.Rainfall
+	7.Temperature
+	8.Crop Rotation
+
+Notifications:
+	1.Ploughing
+	2.Plant Poulation Calculator - Seed Calculation
+	3.Fertilizer Calculator - Fertilizers calculator
+	4.Market Prediction for seeds and fertilizers.
+	5.Notification for sowing date of seeds and mixing of fertilizers.
+	6.Notification for irrigation.
+	7.Weeds Detection
+	8.Disease Detection
+	9.Plant growth detection - > soil testing or contact to experts.
+	10.Temperature detector
+	11.Rainfall Detector
+	12.Pesticide Calculator and notification for ideal time to input pesticide.
+	13.Harvesting tools predictor.
+	14.Harvesting date.
+	15.Market Prediction(Mandi)
+	16.Waste Management
